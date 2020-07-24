@@ -1,6 +1,6 @@
 hook.Add("Initialize", "T-Pose Init", function()
-	MsgC(Color( 255, 0, 0 ), "[Neeve's TTT T-Pose]", Color(255, 255, 255), "Thanks for installing Neeve's TTT T-Pose")
-	
+	MsgC(Color( 255, 0, 0 ), "[Neeve's TTT T-Pose]", Color(255, 255, 255), "Thanks for installing Neeve's TTT T-Pose!\n")
+
 	local WEAPON_CLASS = "weapon_ttt_unarmed"
 	if not weapons.Get("weapon_ttt_unarmed") then
 		return
