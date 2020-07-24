@@ -1,0 +1,13 @@
+{
+    "title": "Neeve's TTT T-Pose",
+    "type": "weapon",
+    "tags": [
+        "fun",
+        "comic"
+    ],
+    "ignore": [
+        ".git*",
+        "README.md",
+        "LICENSE"
+    ]
+}
